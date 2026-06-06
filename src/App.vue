@@ -4,7 +4,6 @@
     <HeroSection />
     <StatsSection />
     <AboutSection />
-    <WhyUsSection />
     <ProgramSection />
     <PPDBFlow />
     <DashboardPreview />
@@ -27,5 +26,4 @@ import NewsSection from './components/NewsSection.vue'
 import PPDBForm from './components/PPDBForm.vue'
 import CTASection from './components/CTASection.vue'
 import FooterSection from './components/FooterSection.vue'
-import WhyUsSection from './components/WhyUsSection.vue'
 </script>
